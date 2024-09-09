@@ -6,8 +6,20 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is the systematical appliication of engineering principles, methods, and tools to develop and maintain high-quality software systems. It involves software product design, development, testing, deployment, and maintenance.
+
+It enablies the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1.	Structured Programming (1960s)
+   Structured programming introduced fundamental concepts such as procedures, functions, and control structures (like loops and conditionals) to improve code readability and maintainability. Prior to this, software development was often chaotic and unstructured, leading to complex and error-prone code.
+
+2. Waterfall Model (1970s)
+The Waterfall model, formalized by Winston Royce, was one of the first structured methodologies for software development. It introduced a linear, sequential approach where each phase (requirements, design, implementation, testing, and maintenance) must be completed before moving to the next.
+
+3. Agile Methodologies (2000s)
+  Agile methodologies emerged as a response to the limitations of traditional methods like Waterfall. Agile emphasizes iterative development, flexibility, and close collaboration with stakeholders
+
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
